@@ -10,6 +10,3 @@ def is_palindrone(s):
         else:
             return False
     return x
-
-print(is_palindrone('abba'))
-print(is_palindrone('Abba'))
