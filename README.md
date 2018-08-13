@@ -1,7 +1,7 @@
-# improve this code
+# improve this code!
 ```
 # The below function checks whether a string is a palindrome.
-# Please explain, in 250 words or less, how you'd improve the code and why.
+# Please explain, in 250 words or less, how you'd improve this code and why.
 def is_palindrone(s):
     r=""
     for c in s:
